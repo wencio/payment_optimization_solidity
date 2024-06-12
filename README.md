@@ -68,7 +68,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For issues and contributions, please contact [your-email@example.com].
+For issues and contributions, please contact [wdannimartinez@gmail.com].
 
 ```
 
